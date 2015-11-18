@@ -1,5 +1,9 @@
 ﻿HOLA !
 Hola, soy Pablo la ardilla que tiembla, brrrrr tengo frío, necesito un sweter.
+<<<<<<< HEAD
 
 lalalalala
 cambio 2.0
+=======
+lalalalala
+>>>>>>> origin/master
