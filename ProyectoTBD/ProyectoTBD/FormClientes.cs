@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProyectoTBD
 {
-    public partial class Form1 : Form
+    public partial class FormClientes : MetroFramework.Forms.MetroForm
     {
-        public Form1()
+        public FormClientes()
         {
             InitializeComponent();
         }
